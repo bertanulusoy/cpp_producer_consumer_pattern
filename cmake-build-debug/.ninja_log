@@ -1,0 +1,6 @@
+# ninja log v5
+1649	1812	1698923371812632818	ProducerConsumerPatternBlogPost	d118e4921b21bd50
+13	1649	1698923371638096409	CMakeFiles/ProducerConsumerPatternBlogPost.dir/main.cpp.o	4221fd43cbc380a9
+15	112	1698923370111582073	CMakeFiles/ProducerConsumerPatternBlogPost.dir/Frame.cpp.o	15a5ba6156e78e8a
+14	1441	1698923371430495258	CMakeFiles/ProducerConsumerPatternBlogPost.dir/FrameQueue.cpp.o	7050eac210806a1c
+1	241	1698945877357236613	build.ninja	a5790f6d3e19730d

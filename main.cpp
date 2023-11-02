@@ -1,6 +1,10 @@
 #include <iostream>
 
+#include <opencv2/opencv.hpp>
+
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+
+    cv::Mat image = cv::imread("test.jpg", cv::IMREAD_COLOR);
+
     return 0;
 }
