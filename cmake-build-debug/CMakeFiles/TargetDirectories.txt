@@ -1,0 +1,3 @@
+/Users/bertan/development/CppWorkings/ProducerConsumerPatternBlogPost/cmake-build-debug/CMakeFiles/ProducerConsumerPatternBlogPost.dir
+/Users/bertan/development/CppWorkings/ProducerConsumerPatternBlogPost/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bertan/development/CppWorkings/ProducerConsumerPatternBlogPost/cmake-build-debug/CMakeFiles/rebuild_cache.dir
