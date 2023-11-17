@@ -22,6 +22,8 @@ add_executable(${PROJECT_NAME} main.cpp
         Tasks/FrameTask.cpp
         Tasks/FrameTask.h
         ThreadPool/ThreadPool.cpp
-        ThreadPool/ThreadPool.h)
+        ThreadPool/ThreadPool.h
+        ThreadPool/WorkerThread.cpp
+        ThreadPool/WorkerThread.h)
 
 target_link_libraries(${PROJECT_NAME} ${OpenCV_LIBS})
